@@ -15,7 +15,7 @@
 
 # rn-verifcode
 
-> ## React-Native component to input confirmation code for both Android and IOS
+> React-Native component to input confirmation code for both Android and IOS
 
 - customizable
 - fast paste SMS-code

@@ -1,0 +1,14 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history
+.DS_Store
+node_modules/
+example/node_modules/
+.expo/
+npm-debug.log
+lib/
+yarn-error.log
+example/yarn-error.log

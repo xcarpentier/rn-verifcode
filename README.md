@@ -1,6 +1,6 @@
 <p align="center" >
    <a href="https://reactnative.gallery/xcarpentier/rn-verifcode">
-    <img alt="react-native-suggester" src="https://thumbs.gfycat.com/BlueInferiorHorseshoecrab-size_restricted.gif" width="260" height="510" />
+    <img alt="react-native-suggester" src="https://thumbs.gfycat.com/FittingAromaticChimpanzee-size_restricted.gif" width="260" height="510" />
  </a>
 
 </p>
@@ -18,8 +18,8 @@
 > React-Native component to input confirmation code for both Android and IOS
 
 - customizable
-- fast paste SMS-code
-- copy from clipboard
+- fast paste **SMS-code**
+- **copy from clipboard**
 - reset code
 
 ## How to use it ?

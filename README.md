@@ -9,7 +9,6 @@
   <a href="https://www.npmjs.com/package/rn-verifcode">
   <img alt="npm downloads" src="https://img.shields.io/npm/dm/rn-verifcode.svg"/></a>
   <a href="https://www.npmjs.com/package/rn-verifcode"><img alt="npm version" src="https://badge.fury.io/js/rn-verifcode.svg"/></a>
-   <a href="https://reactnative.gallery/xcarpentier/rn-verifcode"><img src="https://img.shields.io/badge/reactnative.gallery-%F0%9F%8E%AC-green.svg"/></a>
 
 </p>
 
